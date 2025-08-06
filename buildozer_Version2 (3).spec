@@ -1,4 +1,8 @@
 [app]
+android.sdk_path = HOME/.buildozer/android/platform/android-sdk
+"'
+"'
+android.ndk_path = HOME/.buildozer/android/platform/android-ndk-r25b android.accept_sdk_licence = true
 title = Collier GPS
 package.name = colliergps
 package.domain = org.gps.collar
